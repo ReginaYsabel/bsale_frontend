@@ -7,7 +7,7 @@ Tienda online para la venta de snacks y bebidas construida usando HTML, CSS, Van
 * CSS
 * JAVASCRIPT
 * BOOTSTRAP
-## Ejecutar Localmente
+## Ejecucion
 1. Clonar el repositorio
 
    ```sh
